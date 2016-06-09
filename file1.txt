@@ -1,4 +1,4 @@
-This is line 1.
+This is line 1 but I changed it.
 Line 2.
 I'm adding somewhere in the middle.
 line 3 ...
